@@ -16,5 +16,6 @@
 
 <br><br>
 <h2><b>3- Images</b></h2>
-
-
+<img src="https://github.com/BrunoEleodoro/Arduino-Proximity-Sensor/blob/master/assets/gif_demonstration.gif">
+<img src="https://github.com/BrunoEleodoro/Arduino-Proximity-Sensor/blob/master/assets/board_view_1.jpeg">
+<img src="https://github.com/BrunoEleodoro/Arduino-Proximity-Sensor/blob/master/assets/board_view_2.jpeg">
